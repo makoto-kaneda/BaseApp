@@ -1,4 +1,5 @@
 [![PHP-CS-Fixer](https://github.com/makoto-kaneda/BaseApp/actions/workflows/php-cs-fixer.yml/badge.svg?branch=master)](https://github.com/makoto-kaneda/BaseApp/actions/workflows/php-cs-fixer.yml)
+[![CodeFactor](https://www.codefactor.io/repository/github/makoto-kaneda/baseapp/badge)](https://www.codefactor.io/repository/github/makoto-kaneda/baseapp)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
